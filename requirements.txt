@@ -1,0 +1,6 @@
+json
+requests
+logging
+pynput
+os
+listener
